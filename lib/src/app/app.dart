@@ -1,4 +1,4 @@
-import 'package:kistpay_consumer_revamp/src/views/login_view.dart';
+import 'package:kistpay_consumer_revamp/src/views/login/login_view.dart';
 import 'package:stacked/stacked_annotations.dart';
 
 @StackedApp(
